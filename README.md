@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ivan Tolkunov profile views](https://u8views.com/api/v1/github/profiles/57285928/views/day-week-month-total-count.svg)](https://u8views.com/github/ivan-tolkunov)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
